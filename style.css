@@ -1,3 +1,5 @@
+/**resetCSS**/
+
 * {
   padding: 0;
   margin: 0;
@@ -6,7 +8,7 @@
   font-family: sans-serif;
   font-size: 14px;
 }
-
+/**mainContent**/
 body {
   width: 100%;
   min-width: 100vh;
@@ -138,6 +140,8 @@ body {
     width: 90%;
   }
 }
+
+/**responsivity**/
 
 @media (max-width: 650px) {
   .body {
