@@ -8,7 +8,11 @@
 - Discutir as tarefas do projeto e sua execução com a comunidade da plataforma.
 - O foco maior do desafio é a responsividade.
 
+Deploy link: (https://allanfsgarcia.github.io/dio-instagram-home/)
+
 
 ![image](https://user-images.githubusercontent.com/91488719/149636791-2062fafd-7fd5-4e2d-b50d-d250b9d135e5.png)
+
+Praticando: TAGS HTML, Responsividade, estilização e seletores CSS.
 
 
